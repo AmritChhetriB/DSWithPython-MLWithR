@@ -1,0 +1,13 @@
+echo "# DSWithPython-MLWithR" >> README.md
+git init
+git add *.*
+git commit -m "Baseline COmmit"
+git branch -M main
+git remote add origin https://github.com/AmritChhetriB/DSWithPython-MLWithR.git
+git push -u origin main
+
+…or push an existing repository from the command line
+
+git remote add origin https://github.com/AmritChhetriB/DSWithPython-MLWithR.git
+git branch -M main
+git push -u origin main
